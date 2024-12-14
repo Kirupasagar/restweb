@@ -250,6 +250,9 @@ homepage.html
             <p>Savor the freshest catch, beautifully displayed and expertly prepared to celebrate the flavors of the ocean.</p>
         </div>
     </section>
+    <footer>
+            <p>Designed and Developed by Kirupasagar</p>
+        </footer>
 </body>
 </html>
 
@@ -519,6 +522,9 @@ menu.html
             </div>
         </div>
     </div>
+    <footer>
+            <p>Designed and Developed by Kirupasagar</p>
+        </footer>
 </body>
 </html>
 
@@ -720,14 +726,19 @@ contact.html
             </form>
         </div>
     </section>
+    <footer>
+            <p>Designed and Developed by Kirupasagar</p>
+        </footer>
 </body>
 </html>
 ```
 
 ## OUTPUT:
-![alt text](myproject/myapp/static/homepage.png)
-![alt text](myproject/myapp/static/menu.png)
-![alt text](myproject/myapp/static/contact.png)
-
+![alt text](home1.png)
+![alt text](home2.png)
+![alt text](menu1.png)
+![alt text](menu2.png)
+![alt text](contact1.png)
+![alt text](contact2.png)
 ## RESULT:
 The program for designing software company website using HTML and CSS is completed successfully.
